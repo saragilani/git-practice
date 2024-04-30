@@ -9,3 +9,9 @@ A repo to practise git commands, Pull Requests and rebasing
   - Typescript
   - Java
   - Python
+
+**Hobbies**:
+- Activism
+- Reading
+- Volunteering
+- Crochet
